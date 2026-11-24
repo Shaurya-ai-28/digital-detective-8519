@@ -1,0 +1,20 @@
+Digital Detective - Evidence Log
+Student: Shaurya Agarwal (USN: 2392608519)
+Campus: Newton School of Technology, Bengaluru
+
+1. Tool Versions:
+Python: 3.9.6
+Git: 2.54.0
+
+2. Mission 4 (hello.py):
+$ python3 hello.py
+Hello from Python
+
+3. Mission 5 (number_converter.py test runs):
+Input: 42  -> Binary: 101010   | Hex: 2A
+Input: 128 -> Binary: 10000000 | Hex: 80
+Input: 255 -> Binary: 11111111 | Hex: FF
+
+4. Mission 7 (Network checks):
+$ ping -c 3 google.com -> 0% packet loss, ~18ms latency
+$ nslookup google.com  -> 142.250.190.46
