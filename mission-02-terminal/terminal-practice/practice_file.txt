@@ -1,0 +1,2 @@
+First line of exploratory notes.
+Second line added via append redirection.
