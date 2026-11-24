@@ -43,3 +43,7 @@ Enter a positive number (like 42) to see its binary and hexadecimal values.
 
 ---
 
+## My Learning
+- The terminal is quick and convenient for managing files once you know basic commands.
+- All computer data (numbers, text, code) is represented as binary bits under the hood.
+- Git branches and commits keep work safe and organized without needing backup copies.
